@@ -81,3 +81,26 @@ while True:
     print("\n")
     tmb_fem = 655 + (9.6 * peso) + (1.8 * altura) - (4.7 * idade)
     tmb_masc = 66 + (13.7 * peso) + (5 * altura) - (6.8 * idade)
+    match sexo:
+        case '1':
+            atividade_fisica()
+            print("\n")
+        case '2':
+            atividade_fisica()
+            print("\n")
+        case _:
+            print("Inválido")
+            print("\n")
+
+    print("Se quiser saber mais, agende uma consulta!")
+    sair = input("Você deseja sair?\n 1 - Sim\n 2 - Não\n"
+                 + "Resposta: ")
+    
+    if sair == '1':
+        print("Tchau!")
+        break
+        
+    elif sair == '2':
+        continue
+    else:
+        print("Opção inválida")
