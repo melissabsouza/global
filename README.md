@@ -1,6 +1,6 @@
-Alissa Silva Cezero — RM 553954 
-Melissa Barbosa de Souza — RM 552535 
-Mirella da Silva Cruz Germano — RM 552777 
+Alissa Silva Cezero — RM 553954\n
+Melissa Barbosa de Souza — RM 552535\n
+Mirella da Silva Cruz Germano — RM 552777\n
 SheCodes
 
 link video: https://youtu.be/ChH-adlVWgk
